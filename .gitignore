@@ -1,0 +1,25 @@
+# Archivos de compilación de LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.nav
+*.snm
+*.vrb
+*.fls
+*.fdb_latexmk
+
+# Archivos generados por PDFLaTeX
+*.pdf
+
+# Archivos generados en la carpeta code
+*.o
+*.objdump
+
+# Editor específico
+.vscode/
+.idea/
+*.swp
+*~
+
+!presentation.pdf
